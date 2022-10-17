@@ -1,0 +1,39 @@
+* {
+    font-family: sans-serif;
+    color: rgb(75, 65, 65);
+}
+
+.container {
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgb(137, 170, 165);
+    padding: 5px;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+img.octocat {
+    height: 200px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    background-color: lightblue;
+    margin: 20px;
+    padding: 20px;
+}
+
+.pink {
+    background-color: pink;
+    justify-content: space-evenly;
+}
+
+.white {
+    background-color: white;
+    justify-content: space-evenly;
+}
